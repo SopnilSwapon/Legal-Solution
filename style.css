@@ -1,0 +1,9 @@
+.background-img{
+  background-image: url(images/banner.png);
+  background-repeat: no-repeat;
+  height: 550px;
+}
+.accha{
+  height: 56px;
+  width: 56px;
+}
